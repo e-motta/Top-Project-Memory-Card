@@ -1,0 +1,13 @@
+.Content {
+  display: flex;
+  justify-content: center;
+}
+
+.main-content {
+  width: 1000px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: wrap;
+  gap: 13px;
+}

@@ -1,0 +1,10 @@
+.Score {
+  font-size: 1.6em;
+  text-align: end;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.max-score {
+  color: rgb(251, 155, 155)
+}

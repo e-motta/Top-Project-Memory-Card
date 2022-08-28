@@ -1,0 +1,20 @@
+.Header {
+  background-color: rgb(33, 49, 87);
+  color: rgb(236, 236, 236);
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1000px;
+}
+
+.Header .title {
+  font-size: 4em;
+  font-weight: 900;
+}

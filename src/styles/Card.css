@@ -1,0 +1,25 @@
+.Card {
+  background-color: rgb(230, 241, 255);
+  width: 240px;
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  border-width: 0;
+}
+.icon, .name, .image {
+  pointer-events: none
+}
+
+.icon, .name {
+  color: rgb(33, 49, 87);
+}
+
+.name {
+  font-size: 1.4em;
+  padding: 15px 58px;
+  border-radius: 5px;
+  background-color: rgb(179, 202, 233);
+}
