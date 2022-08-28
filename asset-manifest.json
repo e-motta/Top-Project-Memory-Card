@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TOP-Project-Memory-Card/static/css/main.95d8c180.css",
+    "main.js": "/TOP-Project-Memory-Card/static/js/main.8b3117e0.js",
+    "index.html": "/TOP-Project-Memory-Card/index.html",
+    "main.95d8c180.css.map": "/TOP-Project-Memory-Card/static/css/main.95d8c180.css.map",
+    "main.8b3117e0.js.map": "/TOP-Project-Memory-Card/static/js/main.8b3117e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95d8c180.css",
+    "static/js/main.8b3117e0.js"
+  ]
+}
